@@ -124,8 +124,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	color: #FFF;
 }
 
-/* ~~ Miscellaneous float/clear classes ~~ */
-.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+/* ~~ Float Container Right~~ */
+.fltrt {  
 	float: right;
 	margin-left: 8px;
 	}
@@ -136,7 +136,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* this changes the background
 	margin-left: 8px;
 	padding-top:24px;
 }
-.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+.fltlft { /* Float Container Left */
 	float: left;
 	margin-right: 8px;
 }
